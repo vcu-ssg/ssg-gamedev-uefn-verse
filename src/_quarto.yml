@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: ../docs
+
+format:
+  html:
+    theme: cosmos
+    toc: true
+
+
+website:
+  title: "Unreal Engine for Fortnite Resources"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: getting-started-with-verse.qmd
+        text: Getting started with Verse

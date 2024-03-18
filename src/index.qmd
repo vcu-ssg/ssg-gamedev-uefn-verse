@@ -1,0 +1,8 @@
+---
+title: SSG guide books
+date: last-modified
+---
+
+
+* [Getting started with Verse](getting-started-with-verse.qmd)
+
