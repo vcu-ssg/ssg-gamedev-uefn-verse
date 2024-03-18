@@ -11,6 +11,48 @@
     "href": "getting-started-with-verse.html",
     "title": "Getting Started with Verse",
     "section": "",
-    "text": "test"
+    "text": "Verse Programming Onboarding Guide"
+  },
+  {
+    "objectID": "getting-started-with-verse.html#if-youre-not-familiar-with-programming",
+    "href": "getting-started-with-verse.html#if-youre-not-familiar-with-programming",
+    "title": "Getting Started with Verse",
+    "section": "",
+    "text": "Verse Programming Onboarding Guide"
+  },
+  {
+    "objectID": "getting-started-with-verse.html#getting-started-with-verse",
+    "href": "getting-started-with-verse.html#getting-started-with-verse",
+    "title": "Getting Started with Verse",
+    "section": "Getting started with Verse",
+    "text": "Getting started with Verse\n\nVerse Language Get Started\nModify and run your first verse program\nVerse quick reference\nCreating a new device with Verse\nCustomize Verse Device Properties\nCoding device interactions\nPersistence Devices"
+  },
+  {
+    "objectID": "getting-started-with-verse.html#tutorials-for-verse",
+    "href": "getting-started-with-verse.html#tutorials-for-verse",
+    "title": "Getting Started with Verse",
+    "section": "Tutorials for Verse",
+    "text": "Tutorials for Verse\n\nCustom countdown timer using Verse\nTeleports to create teams in Verse\nCreating an elevator using Blender and Verse\nLinking devices with Verse - 4 videos\nConnecting devices using Verse\nProgress Bar using Verse\nCustom devices (like Elevators) using Verse\nVFX Spawner device with Verse\n“Self” object variable in Verse\nPersistent counter in Verse\nControlling creatures with Verse\nInterfaces in Verse explained\nPasscode / Pinpad device in Verse"
+  },
+  {
+    "objectID": "getting-started-with-verse.html#general-tutorials",
+    "href": "getting-started-with-verse.html#general-tutorials",
+    "title": "Getting Started with Verse",
+    "section": "General Tutorials",
+    "text": "General Tutorials\n\nWhat I do when I start EVERY UEFN project\nCreating a custom game loop - 3 videos including 1 with verse"
+  },
+  {
+    "objectID": "getting-started-with-verse.html#in-game-user-interfaces",
+    "href": "getting-started-with-verse.html#in-game-user-interfaces",
+    "title": "Getting Started with Verse",
+    "section": "In-Game User interfaces",
+    "text": "In-Game User interfaces\n\nIn-game user interfaces\nCreating and Removing Widgets using verse\nPositing Widgets on the Screen using Verse\nMaking widgets interactable with Verse"
+  },
+  {
+    "objectID": "getting-started-with-verse.html#verse-references",
+    "href": "getting-started-with-verse.html#verse-references",
+    "title": "Getting Started with Verse",
+    "section": "Verse References",
+    "text": "Verse References\n\nVerse Language Reference\nVerse API Reference\nVerse Snippets Repository\nOther Fortnite community"
   }
 ]

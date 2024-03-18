@@ -4,4 +4,80 @@ date: last-modified
 author: John Leonard
 ---
 
-test
+
+## If you're not familiar with programming
+
+* [Verse Programming Onboarding Guide](https://dev.epicgames.com/documentation/en-us/uefn/onboarding-guide-to-programming-with-verse-in-unreal-editor-for-fortnite)
+
+## Getting started with Verse
+
+* [Verse Language Get Started](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-get-started-in-unreal-editor-for-fortnite)
+
+* [Modify and run your first verse program](https://dev.epicgames.com/documentation/en-us/uefn/run-your-first-verse-program-in-unreal-editor-for-fortnite)
+
+* [Verse quick reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-quick-reference)
+
+* [Creating a new device with Verse](https://dev.epicgames.com/documentation/en-us/uefn/create-your-own-device-in-verse)
+
+* [Customize Verse Device Properties](https://dev.epicgames.com/documentation/en-us/uefn/customize-verse-device-properties-in-verse)
+
+* [Coding device interactions](https://dev.epicgames.com/documentation/en-us/uefn/customize-verse-device-properties-in-verse)
+
+* [Persistence Devices](https://dev.epicgames.com/documentation/en-us/uefn/persistence-devices-in-unreal-editor-for-fortnite)
+
+## Tutorials for Verse
+
+* [Custom countdown timer using Verse](https://dev.epicgames.com/community/learning/tutorials/2JK9/fortnite-verse-custom-countdown-timer)
+
+* [Teleports to create teams in Verse](https://dev.epicgames.com/community/learning/tutorials/5PrO/fortnite-team-selection-teleporters-tutorial)
+
+* [Creating an elevator using Blender and Verse](https://dev.epicgames.com/community/learning/tutorials/jMqR/fortnite-how-to-make-an-elevator-with-uefn-and-verse)
+
+* [Linking devices with Verse - 4 videos](https://dev.epicgames.com/community/learning/talks-and-demos/vzwW/fortnite-linking-devices-with-verse)
+
+* [Connecting devices using Verse](https://dev.epicgames.com/community/learning/tutorials/J3jq/fortnite-on-clicked-button-in-verse-to-trigger-any-other-creative-device)
+
+* [Progress Bar using Verse](https://dev.epicgames.com/community/learning/tutorials/dpw9/fortnite-the-ultimate-easy-progress-bar-in-verse-code)
+
+* [Custom devices (like Elevators) using Verse](https://dev.epicgames.com/community/learning/tutorials/Xj5V/fortnite-make-your-own-custom-devices-in-uefn-and-verse-easily)
+
+* [VFX Spawner device with Verse](https://dev.epicgames.com/community/learning/tutorials/96bb/fortnite-control-a-vfx-spawner-device-with-verse-in-uefn)
+
+* ["Self" object variable in Verse](https://dev.epicgames.com/community/learning/tutorials/r6qK/fortnite-the-self-variable-in-verse-code)
+
+* [Persistent counter in Verse](https://dev.epicgames.com/community/learning/tutorials/0J14/fortnite-a-persistent-quest-counter-in-verse-code)
+
+* [Controlling creatures with Verse](https://dev.epicgames.com/community/learning/tutorials/VPO2/fortnite-how-to-control-creatures-with-verse-in-uefn)
+
+* [Interfaces in Verse explained](https://dev.epicgames.com/community/learning/tutorials/jwaV/fortnite-implementing-an-interface-in-verse-code)
+
+* [Passcode / Pinpad device in Verse](https://dev.epicgames.com/community/learning/tutorials/KpxX/fortnite-passcode-pin-pad-device)
+
+## General Tutorials
+
+* [What I do when I start EVERY UEFN project](https://dev.epicgames.com/community/learning/tutorials/v2d2/fortnite-what-i-do-when-i-start-every-uefn-project)
+
+* [Creating a custom game loop - 3 videos including 1 with verse](https://dev.epicgames.com/community/learning/talks-and-demos/aDyr/fortnite-creating-a-custom-gameplay-loop-in-uefn)
+
+
+
+
+## In-Game User interfaces
+
+* [In-game user interfaces](https://dev.epicgames.com/documentation/en-us/uefn/persistence-devices-in-unreal-editor-for-fortnite)
+
+* [Creating and Removing Widgets using verse](https://dev.epicgames.com/documentation/en-us/uefn/persistence-devices-in-unreal-editor-for-fortnite)
+
+* [Positing Widgets on the Screen using Verse](https://dev.epicgames.com/documentation/en-us/uefn/persistence-devices-in-unreal-editor-for-fortnite)
+
+* [Making widgets interactable with Verse](https://dev.epicgames.com/documentation/en-us/uefn/making-widgets-interactable-in-unreal-editor-for-fortnite)
+
+## Verse References
+
+* [Verse Language Reference](https://dev.epicgames.com/documentation/en-us/uefn/making-widgets-interactable-in-unreal-editor-for-fortnite)
+
+* [Verse API Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-api)
+
+* [Verse Snippets Repository](https://dev.epicgames.com/community/fortnite/snippets)
+
+* [Other Fortnite community](https://dev.epicgames.com/community/fortnite/learning/page/5?query=verse&languages=en-us&applications=all_uefn&categories=programming-and-scripting&source=epic_games&types=knowledge_base,community_tutorial)
