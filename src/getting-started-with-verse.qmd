@@ -15,7 +15,11 @@ author: John Leonard
 
 * [Modify and run your first verse program](https://dev.epicgames.com/documentation/en-us/uefn/run-your-first-verse-program-in-unreal-editor-for-fortnite)
 
+* [What I do when I start EVERY UEFN project](https://dev.epicgames.com/community/learning/tutorials/v2d2/fortnite-what-i-do-when-i-start-every-uefn-project)
+
 * [Verse quick reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-quick-reference)
+
+## Devices in Verse
 
 * [Creating a new device with Verse](https://dev.epicgames.com/documentation/en-us/uefn/create-your-own-device-in-verse)
 
@@ -25,7 +29,7 @@ author: John Leonard
 
 * [Persistence Devices](https://dev.epicgames.com/documentation/en-us/uefn/persistence-devices-in-unreal-editor-for-fortnite)
 
-## Tutorials for Verse
+## Random Tutorials for Verse
 
 * [Custom countdown timer using Verse](https://dev.epicgames.com/community/learning/tutorials/2JK9/fortnite-verse-custom-countdown-timer)
 
@@ -55,11 +59,7 @@ author: John Leonard
 
 ## General Tutorials
 
-* [What I do when I start EVERY UEFN project](https://dev.epicgames.com/community/learning/tutorials/v2d2/fortnite-what-i-do-when-i-start-every-uefn-project)
-
 * [Creating a custom game loop - 3 videos including 1 with verse](https://dev.epicgames.com/community/learning/talks-and-demos/aDyr/fortnite-creating-a-custom-gameplay-loop-in-uefn)
-
-
 
 
 ## In-Game User interfaces
